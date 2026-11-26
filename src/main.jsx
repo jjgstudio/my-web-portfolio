@@ -9,7 +9,7 @@ const projects = [
     name: 'Apex Auto Detailing',
     category: 'Automotive · Website design & development',
     description: 'A polished digital home for a premium detailing service, designed to make the quality of the work clear from the first visit.',
-    url: 'https://jjguerrero108-ship-it.github.io/apex-auto-detailing/',
+    url: 'https://jjgstudio.github.io/apex-auto-detailing/',
     type: 'apex'
   }
 ];
